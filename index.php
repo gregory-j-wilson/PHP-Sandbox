@@ -1,0 +1,3 @@
+<?php echo file_get_contents("header.php"); ?><style>html {  margin: 0px !important;}body {      font-family: sans-serif;    margin: 0px !important;    background: rgb(223, 223, 223);    color: black;}header {    background: black;    padding: 20px;    text-align: center;    color: white;}section {  padding: 20px;}footer {    background: rgb(49, 49, 49);    text-align: center;    padding: 10px;    color: white;}</style>
+<?php echo file_get_contents("home.php"); ?>
+<?php echo file_get_contents("php-footer.php"); ?>
